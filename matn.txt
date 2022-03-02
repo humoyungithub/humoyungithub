@@ -1,2 +1,3 @@
 bu birinchi qator ko`rinishi edi
 bu esa ikkinchi qator
+bu uchinchi qator commit bilan birga 
